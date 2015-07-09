@@ -1,0 +1,27 @@
+
+.
+|-- backup_ver1.py
+|-- cfgfile_io.py
+|-- chinesePrint.py
+|-- code_index
+|-- drawPicture.py
+|-- file_io.py
+|-- func_doc.py
+|-- helloWord.py
+|-- inherit.py
+|-- json_test.py
+|-- json_test2.py
+|-- logging_config_test.conf
+|-- logging_config_test.py
+|-- logging_test.py
+|-- myapp.log
+|-- o.ini
+|-- pickling.py
+|-- poem_Pushkin.txt
+|-- shoplist.data
+|-- string_com.py
+|-- testjson1.json
+|-- url_test.py
+`-- using_sys.py
+
+0 directories, 23 files
